@@ -28,7 +28,7 @@ Going from 1 to 2 words/day is a *massive* win. Going from 10 to 11 is much less
 
 ## ⚙️ How to Use
 
-1.  Go to the [**Releases Page**](https://github.com/XPLassal/optimal-pace-calculator/releases) (Я буду использовать 'optimal-pace-calculator' как имя репозитория. Если у вас другое, измените ссылку).
+1.  Go to the [**Releases Page**](https://github.com/XPLassal/optimal-pace-calculator/releases).
 2.  Download the executable file for your operating system (e.g., `PaceCalculator_EN.exe` for Windows).
 3.  Run the file from your terminal.
 
