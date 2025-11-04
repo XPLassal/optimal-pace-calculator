@@ -107,7 +107,7 @@ func readInt(prompt string, min, max int) (int, error) {
 func main() {
 	fmt.Println("--- Калькулятор прогресса и 'точки баланса' ---")
 
-	total, err := readFloat("Введите общий объем (например, я хочу читать 500 страниц в день): ")
+	total, err := readFloat("Введите общий объем (например, я хочу прочитать 500 страниц): ")
 	if err != nil {
 		return
 	}
