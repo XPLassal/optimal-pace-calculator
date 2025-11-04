@@ -1,5 +1,7 @@
 # 🚀 Optimal Pace Calculator (Go Edition) 🚀
 
+![preview.gif](preview.gif)
+
 A simple Go command-line tool to visualize your progress on a large task and find your "balance point" — the optimal pace where increasing your effort gives diminishing returns. 📉
 
 This tool helps you answer the question: "Is doing 5 pages a day *that* much better than 4?"
